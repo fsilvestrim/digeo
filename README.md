@@ -1,4 +1,4 @@
-DIGEO 
+DIGEO: An Ontology for Digital Games
 =====
 
-Digital Game Elements Ontology
+With the arrival of the digital era, much of the knowledge related to IT had an increase in terms of its specificity and in terms of complexity in technology development. Having a great diversity of approaches when it comes to studies and research’s (which results in new technologies and practical models), IT became a very extensive and complex area in the eyes of individuals that do not belong to this world. As a sub-area of IT, digital games aim at entertainment by using people intuition. This is a perception of digital games in a player’s point of view. In contrast, the development of digital games are much more complex since it involves formal and technological knowledge. Having said that, it would be very useful, the creation of a standardized structure of easy comprehension when it comes to the digital game development knowledge. In order to validate this idea in a formal way, it is suggested the creation of an ontology: which is the specification of a concept. With this, Digital Game Elements Ontology (DIGEO) is created for purpose of closing the gap between the digital games users and the technical knowledge necessary for game development.
